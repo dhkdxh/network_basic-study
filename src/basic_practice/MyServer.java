@@ -3,6 +3,7 @@ import java.net.*;
 import java.io.*;
 import java.util.*;
 
+//set port number = 8888
 public class MyServer {
     public static void main(String[] args) {
         if(args.length < 1){
